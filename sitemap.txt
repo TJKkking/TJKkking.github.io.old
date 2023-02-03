@@ -1,8 +1,8 @@
-http://example.com/about/index.html
-http://example.com/tags/index.html
-http://example.com/categories/index.html
-http://example.com/2023/02/03/hello-world/
-http://example.com/2023/02/03/Hacking-Blind/
-http://example.com/
-http://example.com/tags/test/
-http://example.com/categories/test/
+https://tjkkking.github.io/2023/02/03/Hacking-Blind/
+https://tjkkking.github.io/2023/02/03/hello-world/
+https://tjkkking.github.io/about/
+https://tjkkking.github.io/categories/
+https://tjkkking.github.io/tags/
+https://tjkkking.github.io/
+https://tjkkking.github.io/tags/test/
+https://tjkkking.github.io/categories/test/
